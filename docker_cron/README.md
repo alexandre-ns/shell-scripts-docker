@@ -62,7 +62,9 @@ chmod 600 /home/root/.msmtprc
 ### Arquivo de log
 O script gera um arquivo de log container.log em /home/USER/
 - Container rodando.
+
 ![log 2](https://github.com/alexandre-ns/Assets/blob/main/cron_container/log2.png)
 
 - Container fora do ar.
+
 ![log 1](https://github.com/alexandre-ns/Assets/blob/main/cron_container/log1.png)
